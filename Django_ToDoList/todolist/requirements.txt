@@ -1,0 +1,10 @@
+asgiref==3.8.1
+asn1crypto==1.5.1
+Django==5.1.7
+gunicorn==23.0.0
+packaging==24.2
+pg8000==1.31.2
+python-dateutil==2.9.0.post0
+scramp==1.4.5
+six==1.17.0
+sqlparse==0.5.3
